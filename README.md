@@ -1,2 +1,2 @@
-# TicTacTao
-Java code for the famous game TicTacTao.
+# TicTacToe
+Java code for the famous game TicTacToe.
